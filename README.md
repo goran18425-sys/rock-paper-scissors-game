@@ -48,3 +48,4 @@ Software engineering student at ITS
 
 ## Screenshots
 
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/a7494e1f-1d87-41c0-ba44-e3a1286c78c5" />
